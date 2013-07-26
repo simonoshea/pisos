@@ -27,8 +27,8 @@ if (isset($_SESSION['user'])) {
 			<div class="navbar-inner">
 				<ul class="nav">
 				<a href="#" class="brand">PiSos Panel</a>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="../about.php">About</a></li>
+				<li><a href="../contact.php">Contact</a></li>
 				</ul>
 				<ul class="nav pull-right">
 				<li class="dropdown">
