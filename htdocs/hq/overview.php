@@ -31,7 +31,7 @@ Your browser does not support the video tag. <a href="help.php?sol=html5">Click 
 </tr>
 <tr>
 <td>Temp</td>
-<td><?php echo $currenttemp ?>&deg;</td>
+<td><?php echo $currenttemp; //TODO Grab JSON Temp ?>&deg;</td>
 </tr>
 <tr>
 <td>Lighting</td>
@@ -76,7 +76,7 @@ Your browser does not support the video tag. <a href="help.php?sol=html5">Click 
 </tr>
 <tr>
 <td>Temp</td>
-<td><?php echo $currenttemp ?>&deg;</td>
+<td><?php echo $currenttemp; //TODO Grab JSON Temp ?>&deg;</td>
 </tr>
 <tr>
 <td></td>
@@ -118,7 +118,7 @@ Your browser does not support the video tag. <a href="help.php?sol=html5">Click 
 </tr>
 <tr>
 <td>Temp</td>
-<td><?php echo $currenttemp ?>&deg;</td>
+<td><?php echo $currenttemp; //TODO Grab JSON Temp  ?>&deg;</td>
 </tr>
 <tr>
 <td></td>
@@ -158,7 +158,7 @@ Your browser does not support the video tag. <a href="help.php?sol=html5">Click 
 </tr>
 <tr>
 <td>Temp</td>
-<td><?php echo $currenttemp ?>&deg;</td>
+<td><?php echo $currenttemp; //TODO Grab JSON Temp ?>&deg;</td>
 </tr>
 <tr>
 <td></td>
